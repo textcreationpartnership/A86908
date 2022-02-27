@@ -1,0 +1,230 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The island of Assada, neere Madagascar impartially defined, being a succint, yet plenary discription of the situation, fertility and people therein inhabiting. Clearely demonstrating to the adventurer or planter, the right way for disposing his adventure to his most commodious advantage; advising people of all degrees, from the highest to the lowest, how suddainly raise their estate and fortunes· By Lieutenant Colonell Robert Hunt, governour thereof.</title>
+            <author>Hunt, Robert, Lieutenant Colonel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86908</idno>
+            <idno type="STC">Wing H3744</idno>
+            <idno type="STC">Thomason E778_17</idno>
+            <idno type="STC">ESTC R202470</idno>
+            <idno type="EEBO-CITATION">99862734</idno>
+            <idno type="PROQUEST">99862734</idno>
+            <idno type="VID">167339</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86908)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 167339)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 119:E778[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The island of Assada, neere Madagascar impartially defined, being a succint, yet plenary discription of the situation, fertility and people therein inhabiting. Clearely demonstrating to the adventurer or planter, the right way for disposing his adventure to his most commodious advantage; advising people of all degrees, from the highest to the lowest, how suddainly raise their estate and fortunes· By Lieutenant Colonell Robert Hunt, governour thereof.</title>
+                  <author>Hunt, Robert, Lieutenant Colonel.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Nicholas Bourne, at the south entrance of the Royall Exchange.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation in Thomason copy: "1650", "Aug. 10th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Assada (Madagascar) --  Description and travel --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:167339:1" rendition="simple:additions"/>
+            <p>The Iſland of ASSADA, Neere MADAGASCAR Impartially defined, being a ſuccint, yet Plenary Diſcription of the Situation, Fertility and People therein Inhabiting.</p>
+            <p>Clearely demonſtrating to the Adventurer or Planter, the right way for diſpoſing his Adventure to his moſt Commodious advantage; Adviſing people of all degrees, from the higheſt to the loweſt, how ſuddainly raiſe their Eſtate and Fortunes.</p>
+            <p>By Lieutenant Colonell <hi>Robert Hunt,</hi> Governour thereof.</p>
+            <p>
+               <hi>Mercatura, ſi tenuis, ſordida ſi magna ſplendida, quaerenda pecunia primum.</hi>
+            </p>
+            <p>Printed for <hi>Nicholas Bourne,</hi> at the South entrance of the Royall <hi>Exchange.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:167339:2"/>
+            <pb n="1" facs="tcp:167339:2"/>
+            <head>
+               <hi>A DECLARATION, SHEWING, The Grounds and Reaſons, with the Motives that induced Lieut. Col.</hi> Robert Hunt, <hi>to undertake the Voyage and Adventure, for ſetling a Plantation upon the Iſland called</hi> Aſſada, <hi>neere</hi> Madagaſcar; <hi>Publiſhed for ſatisfaction of his Friends, who earneſtly deſire the ſame.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">D</seg>Eare Friends; It may ſeeme strange to ſome of you, that I, who through the bleſſing of God, had a comfortable provi<g ref="char:EOLhyphen"/>ſion for my out-ward ſubſiſtance in my owne Native Coun<g ref="char:EOLhyphen"/>try, ſhould now travell ſo farre abroad, and leave a Wife ſo deare unto me, ſo many neere Relations and Christian Friends, together with places of preferment which were offered me at home; But the truth is ever ſince I had the Honour to be imployed by thoſe Noble Lords, and other Adventurers, by providence as Governour there; In which voyage, having ſeene shoſe Sou<g ref="char:EOLhyphen"/>therne Plantations, beholding the Sweeteneſſe. Pleaſantneſſe, and Profitableneſſe of them, as Nurſeries of Trade to <hi>England;</hi> And conſidering the onely end of my comming into the World was to glorifie God in my Generation, which ac<g ref="char:EOLhyphen"/>cording to the light of nature given me, I am perſwaded that nothing more would conduce to that end, then endeavouring to make knowne God in the World, and to be uſefull and ſerviceable to my Native Country, both which in this undertaking my Eye is fixed upon. For the Firſt, I am perſwaded the Lord hath a great worke by his Servants to make knowne the Lord Jeſus
+<pb n="2" facs="tcp:167339:3"/>Chriſt, to the poore Heathen in theſe Eaſtern parts of the World, and I ſhall much rejoyce if the Lord ſhall pleaſe by me to open a doore for that purpoſe. For the ſecond, the ſetling a Plantation in thoſe parts, is likely to be of great advantage to this Common-wealth, in the increaſe of Trade and Navigation, ſince the diſcovery of this Iſland of <hi>Aſſada</hi> to me; I had longing thoughts and earneſt deſires of going thither, looking upon it as a worke of great concern<g ref="char:EOLhyphen"/>ment for the future to this Nation, and out of our firſt attempt, I hope God in his due time will doe great things, therefore let none contemne the enterpriſe of ſmall things; My purpoſe is by the bleſſing of the Almighty to endeavour the Settlement of an honeſt and juſt Government there, neareſt to ehe Lawes of this Land, for greateſt incouragement and ſecurily to Adventurers; and for the better carrying on this worke, my Intentions are to ſettle two or three Godly men as Agents, at the King of the North end of <hi>Madagaſcars</hi> Court, whoſe worke ſhall be to indeavour to informe him and his people in the know<g ref="char:EOLhyphen"/>ledge of the Goſpell of Jeſus Chriſt and to keepe a loving and peaceable correſ<g ref="char:EOLhyphen"/>pondency with them.</p>
+            <div type="part">
+               <p>FOr Information of ſuch who deſire to Adventure or Plant there, I ſhall now lay downe a Diſcription of the Situati<g ref="char:EOLhyphen"/>on of the Iſland of <hi>Aſſada</hi> (as preſented to me.) This Iſland lyeth Thirteene degrees in the Latitude of <hi>Barbadoo's,</hi> and is a<g ref="char:EOLhyphen"/>bout that bigneſſe and goodneſſe, and reported by them who have beene upon it, to be good Land, and to afford large Sugar-Caines, Rice, Corne and Cattle upon it, with ſtore of Fruits, Fiſh, &amp;c. and whatſoever will grow upon <hi>Barbadoo's</hi> is likely to grow there, being all the yeare ſummer, and at one and the ſame time the Trees doe beare Buds, greene and ripe Fruits, it hath ſmall hills and vallies, with freſh running waters and ly<g ref="char:EOLhyphen"/>eth about nine miles from the great Iſland of <hi>Madagaſcar,</hi> and there are not above fifty or ſixty poore people upon the iſland, which the King left to tend Cattle, to Fiſh and Plant Sugar<g ref="char:EOLhyphen"/>Caines, which at time of the yeare they may carry to <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Bay,</hi> to ſell to the <hi>Arabians;</hi> about ten yeares ſince there <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> foure or five hundred people gotten from <hi>Madagaſcar,</hi> and <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>volted from the King, they made Warre with him divers <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="3" facs="tcp:167339:3"/>and pillaged the <hi>Arabian</hi> Junks, in which time an Engliſh Ship touching there, the King offered them, if they would helpe him to carry his men over to the Iſland, he would give them the Iſland, and halfe the people to be their ſervants: but they refu<g ref="char:EOLhyphen"/>ſing it, he having no Boats, but ſome few Canoes, which would carry not above 3. or 4. men at once in them, and not knowing how to get 40. men over to the Iſland, made rafts of Timber and ſo wafted them over to the Iſland, ſubdued the re<g ref="char:EOLhyphen"/>volters, leaving but the number as aforeſaid: ſo that my inten<g ref="char:EOLhyphen"/>tions is to buy this Iſland of the King for the Accompt of the Adventurers, and to give him full conrent and ſatisfaction for it, He having firſt freed and promiſed it, or any other place in his Country to the Engliſh, we ſhall deſire to promote his Trade and benefit which he is deſirous of; And thoſe which have been with him aſſures me, we need not queſtion a free ſaile of our co<g ref="char:cmbAbbrStroke">̄</g>modities, at a reaſonable value: neere this Iſland are di<g ref="char:EOLhyphen"/>vers ſmall Iſlands without any people inhabiting them, which may be uſefull to us.</p>
+               <p>This Iſland for bigneſſe is reckoned 16. miles ſquare, and hath a good Harbour, where we intend by Gods bleſſing to build a Fort and Towne, and there to ſet down our ſelves: It is beleeved that this Iſland would maintain neere a hundreth thou<g ref="char:EOLhyphen"/>ſand people in way of Trade and Plantation, if once well plan<g ref="char:EOLhyphen"/>ted, having enough beſides, for above 200. <hi>Sugar</hi> works, be<g ref="char:EOLhyphen"/>ſides other Commodities.</p>
+               <p>The Commodities we hope to raiſe, are <hi>Sugar, Indico, ginger, cot<g ref="char:EOLhyphen"/>ton wooll, Tobacco, Rice,</hi> and <hi>Pepper, &amp;c.</hi> And for proviſions, <hi>Corne; Cattle, Hoggs, Poultry, Rice, Gravances, Potatoes, Oringes, Lem<g ref="char:EOLhyphen"/>mons,</hi> and <hi>Pines,</hi> with other fruits, very uſefull and at farre eaſier Rates, then at <hi>Barbadoes,</hi> (as for inſtance,)
+<table>
+                     <row>
+                        <cell>A Plantation of 300. Acres of Land to plant a large Sugar-work, will coſt at <hi>Barbadoes</hi>
+                        </cell>
+                        <cell>2000, pound.</cell>
+                     </row>
+                     <row>
+                        <cell>20. Engliſh ſervants to tranſport with Proviſion,</cell>
+                        <cell>300. l.</cell>
+                     </row>
+                     <row>
+                        <cell>100. Negroes ſervants at 25. l. and 30. l, apiece,</cell>
+                        <cell>2700. l.</cell>
+                     </row>
+                     <row>
+                        <cell>Toole, Cloathing, and ſeverall neceſſaries,</cell>
+                        <cell>300. l.</cell>
+                     </row>
+                     <row>
+                        <cell>20. Cattle of ſeverall ſorts,</cell>
+                        <cell>700. l.</cell>
+                     </row>
+                     <pb n="4" facs="tcp:167339:4"/>
+                     <row>
+                        <cell>The like at <hi>Aſſada,</hi>
+                        </cell>
+                        <cell>6000. pound.</cell>
+                     </row>
+                     <row>
+                        <cell>300. Acres of Land purchaſed at 12. d. the acre,</cell>
+                        <cell>15. l.</cell>
+                     </row>
+                     <row>
+                        <cell>20. Engliſh ſervants to tranſport and furniſh,</cell>
+                        <cell>300. l.</cell>
+                     </row>
+                     <row>
+                        <cell>100. Negroes at 20. s.</cell>
+                        <cell>100. l.</cell>
+                     </row>
+                     <row>
+                        <cell>Tooles cloathing, &amp;c.</cell>
+                        <cell>200. l.</cell>
+                     </row>
+                     <row>
+                        <cell>20 Cattell of ſeverall ſorts,</cell>
+                        <cell>25.. l.</cell>
+                     </row>
+                     <row>
+                        <cell>And for all manner of cloathing and Tooles may be had neare hand for the 3. part it coſt at <hi>Barbadoes,</hi>
+                        </cell>
+                        <cell>640. l.</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>So that the proportion will hold for a greater or leſſer work of <hi>Sugar, Indico, Cotton, Ginger,</hi> and <hi>Tobacco, &amp;c.</hi> And whereas at <hi>Barbadoes</hi> they relate they plant 16. hund. or 20. hund. of Sugar, each ſervant, 160. l. or 200. l. of <hi>Indico,</hi> 1000. l. of <hi>Cotton-wooll,</hi> 20. hund, weight of <hi>Ginger,</hi> 1500. weight of <hi>Tobacco,</hi> in a yeare, its hopefull to raiſe thoſe Commodities farre Cheaper then at <hi>Barbadoes:</hi> we hope to build ſmall Veſſels, to trade to our Neighbouring Countries, and vend the ſame at as good rates as they are like to be worth at <hi>London</hi> for ready money, and other Commodities which are uſefull to vend in <hi>India:</hi> And by that meanes preſerve the Coyne of this Nation, and in a ſhort time, when once ſetled, may inveſt our ſelves at our Returnes with Eaſt <hi>India</hi> Commodities, bringing home thence as much com<g ref="char:EOLhyphen"/>modities as uſually came to this Nation, and ſave the ſending out of a 1000 l. <hi>per annum</hi> of Silver, fully providing our ſelves of men from <hi>Arabia Madagaſcar, Africa,</hi> and <hi>India,</hi> to Plant ſome to be free men, others ſervants. One <hi>Engliſh</hi> man will go<g ref="char:EOLhyphen"/>verne ten of thoſe Nations: thus may Men, Women, and chil<g ref="char:EOLhyphen"/>dren be bred up in the knowledge of God, and in time this Iſland lying ſo well for Trade, may be a ſcale of Trade to the <hi>Engliſh,</hi> for thoſe parts of the World, <hi>as Batavia</hi> is to the <hi>Dutch,</hi> and <hi>God</hi> to the <hi>Portingalls,</hi> who have 20, times their number of Strangers live amongſt them, and under their Go<g ref="char:EOLhyphen"/>vernment.</p>
+               <p>The Iſland of <hi>Madagaſcar,</hi> which lyeth in ſight of this Iſland of <hi>Aſſada,</hi> is 900 miles long, it hath ſeven Kings in it, the chief
+<pb n="5" facs="tcp:167339:4"/>lives at the North end, the Commoditie it affords, is <hi>R<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i Ambergreeſe, Iron, Tortle ſhels, Landall-wood, Ibony wood, Druggs, &amp;c. Auguſtine Bay</hi> where our <hi>Engliſh</hi> uſually touch to water and buy Cattell, is the worſer part of the Iſland, in regard there is uſually no Trade with any other Nation: nor any Townes, nor proviſions for Planting, their being but a ſmall number of peo<g ref="char:EOLhyphen"/>ple which are Cow-keepers, &amp;c.</p>
+               <p>Whereas at <hi>Aſſada, Bay,</hi> an Engliſh Ship putting in there in her Voyage to <hi>India,</hi> found a ſmall Towne called <hi>Antaſia,</hi> where the <hi>Arabians</hi> lades divers Junks of <hi>Rice,</hi> yearly in exchange for <hi>Cullivers, Knives,</hi> and <hi>India</hi> Commodities, from thence our Engliſh travelling up to the Kings Town, about 20. miles up in the Land, paſſed through two Villages about a mile long, well inhabited with people, there being about them fields of <hi>Rice,</hi> and <hi>Sugar Caines,</hi> with hundreds of Cattell; their build<g ref="char:EOLhyphen"/>ings are of Timber two ſtories high, open to walke in the hot weather, the upper Roomes to lodge in. The people naturally are very kinde and courteous, the North part for 2 hundred miles in length, is governed by a King, whom they went unto, to obtain licence to trade, he and his women dwelling in a Pal<g ref="char:EOLhyphen"/>lace about a quarter of a mile round, at the end of which is a ſmall Towne, like a Parke in it, about 500. Oxen feeding, the people are generally his ſlaves, he uſeth our Engliſh court<g ref="char:EOLhyphen"/>eouſly, ſhewed them his Treaſure, which was a Maſſy Silver Staffe, ſome peeces of Eight, peeces of cloth of Gold, of Sattin and ſilke ſtuffes, <hi>Arabian</hi> Coates, which the <hi>Arabians</hi> brought from <hi>India,</hi> being bought of them for <hi>Ambergreeſe, Tortle-ſhels,</hi> which are his owne Commodities.</p>
+               <p>He invited our men to come againe, and promiſed all his Country ſhould be at their command.</p>
+               <p>So that notwithſtanding the diſſolving of the Plantation at <hi>Augaſtines Bay,</hi> where thoſe that know it dare ſay, there is nei<g ref="char:EOLhyphen"/>ther good freſh water, nor wood to build withall, nor Provi<g ref="char:EOLhyphen"/>ſion, nor Gardens for mans uſe: But it is a Marſh ground, like <hi>Sandwitch <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ownes in Kent,</hi> not ſit for Plantation, which is an en<g ref="char:EOLhyphen"/>couragemen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to proceed in this deſigne.</p>
+               <p>Thus you have heard in part what is related to me, by thoſe who have been neare 8. Mone<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e upon the place, men of honeſt
+<pb n="6" facs="tcp:167339:5"/>converſation, who <hi>I</hi> beleeve deales truly with me, and the ſame is confirmed in the generall in Print by Engliſh and Portugall writers, for thoſe fellow Souldiers, Country men and deareſt friends of mine, that reſolve to travell, I doe beleeve, by Gods bleſſing, that not any part of the World is more advantagious for a Plantation, bring every way as well for pleaſure as well as profit, in my eſtimation. And for thoſe that have either little or much to adventure, they may imploy it this way, and thoſe which have nothing, if they come over, for foure yeares as ſer<g ref="char:EOLhyphen"/>vants to their Adventurers, they ſhall have Meate Drinke and Apparell provided, and at the end of the terme in recompence of their ſervice, have as much Land to Plant on as they can im<g ref="char:EOLhyphen"/>ploy, with ſix Moneths proviſions, and three <hi>Negros</hi> ſervants, which at <hi>Barbadoo's</hi> were worth a 100. pound, which if endu<g ref="char:EOLhyphen"/>ſtriouſly imployed, may raiſe their Fortunes every yeare as much.</p>
+               <p>
+                  <hi>And to my Honourable and worthy Adventurers, my humble ſute is, that you would take care of ſending me timely ſupplyes of men, that I may be more enabled to goe on with thoſe de<g ref="char:EOLhyphen"/>ſignes propoſed; which I forbeare to mention in publique, untill a more convenient time for the ſome,: And by the bleſſing of God I doubt not of a good iſſue.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
